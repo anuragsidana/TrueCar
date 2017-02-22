@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TrueCar</string>
+    <string-array name="tabs">
+        <item>Budget</item>
+        <item>Body Type</item>
+        <item>Brands</item>
+    </string-array>
+    <string-array name="budget_values">
+        <item>Upto 4 Lakhs</item>
+        <item>Betwenn 4-7 Lakhs</item>
+        <item>Betwenn 7-10 Lakhs</item>
+        <item>Betwenn 10-15 Lakhs</item>
+        <item>Betwenn 15-25 Lakhs</item>
+        <item>Betwenn 25-40 Lakhs</item>
+        <item>Above 40 Lakhs</item>
+    </string-array>
+
+</resources>
